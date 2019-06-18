@@ -1,0 +1,15 @@
+@import '../../palette.scss';
+
+.contentWrapper {
+  height: 100%;
+  padding: 50px 0 0 0;
+  margin: 0;
+
+  opacity: 0;
+  visibility: hidden;
+}
+
+.contentWrapper.show {
+  opacity: 1;
+  visibility: visible;
+}
