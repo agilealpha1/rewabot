@@ -99,7 +99,7 @@
     "babel-jest": "^23.6.0",
     "cheerio": "^1.0.0-rc.2",
     "cross-env": "^5.2.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-cli": "^2.0.1",
     "gulp-conventional-changelog": "^2.0.9",
     "gulp-copy": "^4.0.0",
